@@ -1,0 +1,9 @@
+﻿---
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortLoopsOnASingleLine: 'true'
+BinPackParameters: 'true'
+BreakBeforeBraces: Allman
+ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
+Cpp11BracedListStyle: 'true'
+
+...
